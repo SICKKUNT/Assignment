@@ -162,5 +162,5 @@ This project demonstrates how mathematical concepts can be effectively implement
 
 ## Author
 
-Prakhar Singh(062)
+Apurv Singh(2025BSDSAI021)
 IIM Sambalpur
